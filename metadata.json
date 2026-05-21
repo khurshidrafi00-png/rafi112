@@ -1,6 +1,0 @@
-{
-  "name": "Niramoy Clinic & Diagnosis Portal",
-  "description": "Medical service portal for Niramoy Clinic & Diagnosis with offline serial scheduling, laboratory test estimation, surgical guide, mobile payments, and AI consultant.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
